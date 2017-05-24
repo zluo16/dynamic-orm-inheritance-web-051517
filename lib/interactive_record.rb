@@ -54,3 +54,5 @@ class InteractiveRecord
   end
 
 end
+
+# ORM is pretty crazy
